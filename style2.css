@@ -1,0 +1,27 @@
+.menu{
+    width: 175px;
+    height: 25px;
+    padding: 0px;
+    padding-left: 0px;
+    font-size: 12pt;
+    background-color: brown;
+    color: goldenrod;
+    text-align: center;
+    cursor: pointer;
+    transition: width 0.5s, background-color 0.5s;
+}
+.menu:hover{
+    width: 200px;
+    color: white;
+    font-size: 13pt;
+    transition: width 0.5s, background-color 0.5s;
+    border-bottom:solid;
+}
+.body{
+    background-color: bisque;
+    color: white;
+}
+.h1{
+    background-color:cadetblue;
+    color: white;
+}
